@@ -1,0 +1,2 @@
+# vigenere-cipher
+This Python program takes 2 string inputs being a key and message to be encrypted. This program automatically removes spaces as well as symbols/numbers from the message because the encryption process specifically uses a 26 character alphabet. Once encrypted, it will show the resulting ciphertext then continue to decrypt the ciphertext back into the plain text to complete the demo of the cipher.
